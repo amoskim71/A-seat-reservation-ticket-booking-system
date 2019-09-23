@@ -1,0 +1,60 @@
+<option value="1">ABA</option>
+	<option value="2">ABAKALIKI</option>
+	<option value="3">ABUJA,GWAGWALADA</option>
+	<option value="9">ABUJA,NYANYA</option>
+	<option value="11">AFIKPO</option>
+	<option value="12">AKURE</option>
+	<option value="13">BENIN</option>
+	<option value="14">CALABAR</option>
+	<option value="17">ENUGU</option>
+	<option value="19">IBADAN</option>
+	<option value="21">ILORIN</option>
+	<option value="22">JOS</option>
+	<option value="23">LAGOS,AJAH</option>
+	<option value="30">LAGOS,AJEGUNLE</option>
+	<option value="34">LAGOS,OJUELEGBA</option>
+	<option value="28">LAGOS,OSHODI</option>
+	<option value="36">NNEWI</option>
+	<option value="37">NSUKKA</option>
+	<option value="39">ONITSHA</option>
+	<option value="40">OWERRI</option>
+	<option value="41">PORTHARCOURT</option>
+	<option value="42">UMUAHIA</option>
+	<option value="43">UYO</option>
+	<option value="44">YENEGOA</option>
+
+
+
+
+
+
+<option value="0">Traveling To ....</option>
+	<option value="1">ABA</option>
+	<option value="2">ABAKALIKI</option>
+	<option value="3">ABUJA,GWAGWALADA</option>
+	<option value="9">ABUJA,NYANYA</option>
+	<option value="11">AFIKPO</option>
+	<option value="12">AKURE</option>
+	<option value="13">BENIN</option>
+	<option value="14">CALABAR</option>
+	<option value="17">ENUGU</option>
+	<option value="19">IBADAN</option>
+	<option value="21">ILORIN</option>
+	<option value="22">JOS</option>
+	<option value="23">LAGOS,AJAH</option>
+	<option value="30">LAGOS,AJEGUNLE</option>
+	<option value="34">LAGOS,OJUELEGBA</option>
+	<option value="28">LAGOS,OSHODI</option>
+	<option value="36">NNEWI</option>
+	<option value="37">NSUKKA</option>
+	<option value="39">ONITSHA</option>
+	<option value="40">OWERRI</option>
+	<option value="41">PORTHARCOURT</option>
+	<option value="42">UMUAHIA</option>
+	<option value="43">UYO</option>
+	<option value="44">YENEGOA</option>
+
+
+
+
+origins[i].val,origins[i].id
